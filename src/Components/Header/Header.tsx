@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <div className="flex justify-between  w-[70%]">
+    <div className="flex justify-between  w-[90%]">
       <div className="h-8 w-40 border flex justify-center items-center rounded-xl bg-[#6bc7ef] text-white border-transparent">
         <div className="flex justify-between ">
           <h6>Bookings</h6>

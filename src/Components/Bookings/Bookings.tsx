@@ -71,7 +71,7 @@ const Booking = () => {
                       alt="Breakfast"
                       className="w-4 h-4 mr-2"
                     />
-                    Complimentary Breakfast
+                    Continental Breakfast
                   </li>
                   <li className="flex items-center mb-1">
                     <img

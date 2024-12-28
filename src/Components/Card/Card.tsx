@@ -3,9 +3,9 @@ const Card = (props: any) => {
   return (
     <div
       {...rest}
-      className="rounded-2xl xl:w-[70%] lg:w-[70%] md:w-[70%] sm:w-[70%] 2xl:w-[70%] m-4"
+      className="rounded-2xl xl:w-[70%] lg:w-[70%] md:w-[70%] sm:w-[70%] 2xl:w-[75%] m-4"
       style={{
-        boxShadow: "5px 5px 10px rgba(0, 0, 0, 0.5)",
+        boxShadow: "10px 10px 8px rgba(0, 0, 0, 0.7)",
       }}
     >
       {children}
